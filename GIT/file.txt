@@ -1,9 +1,0 @@
-## GIT COMMANDS ##
-1. Clone a project --> git clone<project-url>
-2. check the status of change-->  git status
-3. Add changed files to the git --> git add .
-4. Add Commit message -->  git Commiot -m "<Commit-message>"
-5. Push the change to github --> git push -u origin <branch-name>
-6. Create a branch and Checkout to branch --> git checkout -b <branch -name>
-7. To list the branches --> git branch
-8. Checkout to an existing branch --> git checkout <branch-name>
